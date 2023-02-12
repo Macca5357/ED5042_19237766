@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Task app</string>
+    <string-array name="grade_list">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+
+    </string-array>
+</resources>
